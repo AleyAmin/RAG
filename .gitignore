@@ -1,0 +1,45 @@
+# Environment variables
+.env
+.env.local
+.env.production
+.env.staging
+
+# Content and source documents
+content/
+
+# Extracted images
+images/
+
+# Output files
+outputs/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+*.pyo
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Database and Vector Store
+chroma/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
